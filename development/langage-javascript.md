@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ❌ 
+- l'utilisation de l'`asynchrone`  ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
 
 ## 💻 Je code en Javascript
@@ -23,15 +23,18 @@
 
 [lien github](...)
 
+https://github.com/charlinedev/P7_barbelette_charline
+https://github.com/charlinedev/P5
+
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌ 
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ❌ 
 
 Description :
 
@@ -58,6 +61,6 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
 

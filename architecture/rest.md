@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+- les statuts HTTP ❌ 
+- les endpoints ❌ 
+- CORS ❌ 
+- la nomenclature recommandée pour les routes  ✔️
 
 ## 💻 J'utilise
 
@@ -19,16 +19,18 @@
 ### Utilisation dans un projet ❌ / ✔️
 
 [lien github](...)
+https://github.com/charlinedev/P7_barbelette_charline
++ Projet d'API REST pour un centre de formations / soutenance en groupe de 3
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
